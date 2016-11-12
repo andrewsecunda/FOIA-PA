@@ -1,3 +1,3 @@
-# foia
+# FOIA-PA
 
-Repository for FOIA/PA Requests
+Repository for FOIA-PA Requests
